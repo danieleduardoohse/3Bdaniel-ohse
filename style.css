@@ -41,3 +41,11 @@ nav ul li a{
 h2{
     margin-left: 10px;
 }
+main {flex: 1;
+      text-align: center;
+    padding: 20px;}
+
+footer {background-color: #75c358;
+        text-align: center;
+    padding: 20px;
+    margin-top: auto;}
