@@ -26,3 +26,9 @@ li{
     color: rgba(84, 81, 81, 0.987);
 }
 li:hover{background-color: rgb(0, 0, 0);}
+
+#imagem-item{
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
